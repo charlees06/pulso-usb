@@ -1,0 +1,10 @@
+* text=auto
+*.cs text eol=crlf
+*.ps1 text eol=crlf
+*.iss text eol=crlf
+*.isl text eol=crlf
+*.xaml text eol=crlf
+*.sys binary
+*.ico binary
+src/DriverBundle/** binary
+src/Idiomas.txt whitespace=-blank-at-eol

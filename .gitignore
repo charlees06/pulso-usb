@@ -1,0 +1,16 @@
+/build/
+/dist/
+/outputs/
+/src/bin/
+/src/package-build/
+/src/vendor/
+**/copias/
+**/usb-test-backups/
+*.log
+*.reg
+*.tmp
+*.user
+*.suo
+.vs/
+.env
+.env.*
