@@ -1,0 +1,217 @@
+# Español|English|Português (Brasil)|简体中文|Українська
+USB CONTROL|USB CONTROL|CONTROLE USB|USB 控制|КЕРУВАННЯ USB
+TU ESPACIO|YOUR SPACE|SEU ESPAÇO|你的空间|ВАШ ПРОСТІР
+Dispositivos|Devices|Dispositivos|设备|Пристрої
+Restaurar|Restore|Restaurar|恢复|Відновлення
+Guía rápida|Quick guide|Guia rápido|快速指南|Посібник
+Idioma|Language|Idioma|语言|Мова
+Conectando…|Connecting…|Conectando…|正在连接…|Підключення…
+Acerca del controlador ↗|About the driver ↗|Sobre o driver ↗|关于驱动程序 ↗|Про драйвер ↗
+VERSIÓN 2.4  /  LOCAL|VERSION 2.4  /  LOCAL|VERSÃO 2.4  /  LOCAL|版本 2.4  /  本地|ВЕРСІЯ 2.4  /  ЛОКАЛЬНО
+CENTRO DE CONTROL|CONTROL CENTER|CENTRAL DE CONTROLE|控制中心|ЦЕНТР КЕРУВАННЯ
+Tus dispositivos|Your devices|Seus dispositivos|你的设备|Ваші пристрої
+Elige un periférico y encuentra tu configuración.|Choose a device and adjust its settings.|Escolha um periférico e ajuste sua configuração.|选择设备并调整设置。|Виберіть пристрій і налаштуйте його.
+↻  Actualizar|↻  Refresh|↻  Atualizar|↻  刷新|↻  Оновити
+01  /  ELIGE TU DISPOSITIVO|01  /  CHOOSE YOUR DEVICE|01  /  ESCOLHA SEU DISPOSITIVO|01  /  选择设备|01  /  ВИБЕРІТЬ ПРИСТРІЙ
+Buscando USB…|Finding USB devices…|Buscando dispositivos USB…|正在查找 USB 设备…|Пошук USB-пристроїв…
+DISPOSITIVO SELECCIONADO|SELECTED DEVICE|DISPOSITIVO SELECIONADO|已选设备|ВИБРАНИЙ ПРИСТРІЙ
+Selecciona un dispositivo|Select a device|Selecione um dispositivo|请选择设备|Виберіть пристрій
+CONFIGURACIÓN ACTUAL|CURRENT SETTINGS|CONFIGURAÇÃO ATUAL|当前设置|ПОТОЧНІ НАЛАШТУВАННЯ
+Valor guardado, no medido|Saved value, not measured|Valor salvo, não medido|已保存的值，非实测值|Збережене, не виміряне значення
+02  /  AJUSTA LA FRECUENCIA|02  /  SET THE RATE|02  /  AJUSTE A FREQUÊNCIA|02  /  调整频率|02  /  НАЛАШТУЙТЕ ЧАСТОТУ
+¿Cada cuánto consulta tu PC?|How often does your PC poll?|Com que frequência seu PC consulta?|电脑多久轮询一次？|Як часто ПК опитує пристрій?
+Más Hz significa consultas más frecuentes.|More Hz means more frequent polling.|Mais Hz significa consultas mais frequentes.|Hz 越高，轮询越频繁。|Більше Гц — частіше опитування.
+Control del dispositivo|Device controlled|Controle pelo dispositivo|由设备控制|Керування пристроєм
+Personalizar|Customize|Personalizar|自定义|Налаштувати
+entre consultas|between polls|entre consultas|轮询间隔|між опитуваннями
+Detalles del dispositivo|Device details|Detalhes do dispositivo|设备详情|Відомості про пристрій
+Tus copias originales|Your original backups|Seus backups originais|原始备份|Ваші початкові резервні копії
+Se conserva el estado anterior al primer cambio de cada periférico.|The state before the first change to each device is preserved.|O estado anterior à primeira alteração de cada periférico é preservado.|保留每台设备首次更改前的状态。|Зберігається стан кожного пристрою до першої зміни.
+Conserva la carpeta «copias» junto al programa. Se muestran los dispositivos conectados.|Keep the “copias” folder next to the app. Only connected devices are shown.|Mantenha a pasta «copias» junto ao programa. São exibidos os dispositivos conectados.|请将“copias”文件夹保留在程序旁边。此处仅显示已连接的设备。|Зберігайте папку «copias» поруч із програмою. Відображаються підключені пристрої.
+Tres pasos. Tú tienes el control.|Three steps. You're in control.|Três passos. Você tem o controle.|三个步骤，由你掌控。|Три кроки. Усе під вашим контролем.
+01   Elige el periférico|01   Choose a device|01   Escolha o periférico|01   选择设备|01   Виберіть пристрій
+Cada tarjeta representa una unidad USB. Los botones adicionales de un mouse pueden aparecer como funciones de teclado en los detalles.|Each card represents one USB unit. Extra mouse buttons may appear as keyboard functions in the details.|Cada cartão representa uma unidade USB. Os botões extras de um mouse podem aparecer como funções de teclado nos detalhes.|每张卡片代表一个 USB 设备。鼠标的额外按键可能在详情中显示为键盘功能。|Кожна картка представляє один USB-пристрій. Додаткові кнопки миші можуть відображатися у відомостях як функції клавіатури.
+02   Prepara una frecuencia|02   Choose a rate|02   Escolha uma frequência|02   选择频率|02   Виберіть частоту
+Puedes dejar que el dispositivo controle su frecuencia o solicitar un valor. Las opciones dependen de la velocidad USB; el hardware puede imponer otros límites.|Let the device control its rate or request a value. Options depend on USB speed; the hardware may impose other limits.|Você pode deixar o dispositivo controlar a frequência ou solicitar um valor. As opções dependem da velocidade USB; o hardware pode impor outros limites.|可以让设备控制频率，也可以请求指定值。可选值取决于 USB 速度，硬件可能还有其他限制。|Дозвольте пристрою керувати частотою або задайте потрібне значення. Варіанти залежать від швидкості USB; обладнання може мати додаткові обмеження.
+03   Revisa, aplica y reconecta|03   Review, apply and reconnect|03   Revise, aplique e reconecte|03   检查、应用并重新连接|03   Перевірте, застосуйте й підключіть знову
+Revisa el resumen, concede permisos de administrador si Windows los solicita y aplica el cambio. Después, desconecta y conecta el periférico. Una copia conserva los valores originales.|Review the summary, grant administrator permissions if Windows asks, and apply the change. Then unplug and reconnect the device. A backup preserves the original values.|Revise o resumo, conceda permissões de administrador se o Windows solicitar e aplique a alteração. Depois, desconecte e reconecte o periférico. Um backup preserva os valores originais.|检查摘要，在 Windows 提示时授予管理员权限，然后应用更改。之后拔下并重新连接设备。备份会保留原始值。|Перевірте підсумок, надайте права адміністратора, якщо Windows їх запитає, і застосуйте зміну. Потім від’єднайте та знову підключіть пристрій. Резервна копія зберігає початкові значення.
+Hz e intervalo: lo que sí te dicen|What rate and interval tell you|O que a frequência e o intervalo indicam|频率与间隔能说明什么|Що показують частота та інтервал
+125 Hz → 8 ms · 1000 Hz → 1 ms · 8000 Hz → 0,125 ms|125 Hz → 8 ms · 1000 Hz → 1 ms · 8000 Hz → 0.125 ms|125 Hz → 8 ms · 1000 Hz → 1 ms · 8000 Hz → 0,125 ms|125 Hz → 8 ms · 1000 Hz → 1 ms · 8000 Hz → 0.125 ms|125 Hz → 8 ms · 1000 Hz → 1 ms · 8000 Hz → 0,125 ms
+Son intervalos de consulta solicitados. El gráfico es una representación teórica; no mide la tasa efectiva ni el tiempo entre pulsar un botón y ver la respuesta del juego.|These are requested polling intervals. The graph is theoretical; it does not measure the effective rate or the time between pressing a button and seeing the game's response.|São intervalos de consulta solicitados. O gráfico é uma representação teórica; não mede a frequência efetiva nem o tempo entre pressionar um botão e ver a resposta do jogo.|这些是请求的轮询间隔。图表仅为理论示意，并不测量实际频率，也不测量从按下按键到看到游戏响应的时间。|Це запитані інтервали опитування. Графік є теоретичним: він не вимірює фактичну частоту чи час між натисканням кнопки та відповіддю гри на екрані.
+Pulso funciona con HIDUSBF, de SweetLow / LordOfMice. La detección no se limita por marca. Algunos dispositivos o protocolos propietarios pueden no estar admitidos.|Pulso works with HIDUSBF by SweetLow / LordOfMice. Detection is not restricted by brand. Some devices or proprietary protocols may not be supported.|O Pulso funciona com o HIDUSBF, de SweetLow / LordOfMice. A detecção não se limita por marca. Alguns dispositivos ou protocolos proprietários podem não ser compatíveis.|Pulso 使用 SweetLow / LordOfMice 开发的 HIDUSBF。设备检测不限品牌，但某些设备或专有协议可能不受支持。|Pulso працює з HIDUSBF від SweetLow / LordOfMice. Виявлення не обмежене брендом. Деякі пристрої або власні протоколи можуть не підтримуватися.
+Tu configuración está al día|Your settings are up to date|Sua configuração está em dia|当前设置无需更改|Налаштування актуальні
+Selecciona otra frecuencia para preparar un cambio.|Select another rate to prepare a change.|Selecione outra frequência para preparar uma alteração.|选择其他频率以准备更改。|Виберіть іншу частоту, щоб підготувати зміну.
+Revisar cambio  →|Review change  →|Revisar alteração  →|检查更改  →|Перевірити зміну  →
+Detectando periféricos…|Detecting devices…|Detectando periféricos…|正在检测设备…|Виявлення пристроїв…
+Consulta sin administrador|View without administrator rights|Consulta sem administrador|查看无需管理员权限|Перегляд без прав адміністратора
+03  /  REVISA EL CAMBIO|03  /  REVIEW THE CHANGE|03  /  REVISE A ALTERAÇÃO|03  /  检查更改|03  /  ПЕРЕВІРТЕ ЗМІНУ
+Todo claro antes de aplicar.|Review before applying.|Revise antes de aplicar.|应用前请确认。|Перевірте перед застосуванням.
+ACTUAL|CURRENT|ATUAL|当前|ЗАРАЗ
+DESPUÉS|AFTER|DEPOIS|更改后|ПІСЛЯ
+Aplicar configuración|Apply settings|Aplicar configuração|应用设置|Застосувати налаштування
+Volver a editar|Back to editing|Voltar à edição|返回编辑|Повернутися до редагування
+CONSULTAS SOLICITADAS EN 8 MS|REQUESTED POLLS IN 8 MS|CONSULTAS SOLICITADAS EM 8 MS|8 毫秒内请求的轮询次数|ЗАПИТАНІ ОПИТУВАННЯ ЗА 8 МС
+EL DISPOSITIVO CONTROLA EL INTERVALO|THE DEVICE CONTROLS THE INTERVAL|O DISPOSITIVO CONTROLA O INTERVALO|间隔由设备控制|ІНТЕРВАЛОМ КЕРУЄ ПРИСТРІЙ
+Espera a que termine el cambio. La ventana se puede cerrar cuando finalice.|Wait for the change to finish before closing this window.|Aguarde a conclusão da alteração antes de fechar esta janela.|请等待更改完成后再关闭窗口。|Зачекайте завершення зміни, перш ніж закривати вікно.
+Permisos de administrador|Administrator permissions|Permissões de administrador|管理员权限|Права адміністратора
+Permisos solo al aplicar|Permissions only when applying|Permissões apenas ao aplicar|仅应用时需要权限|Права лише для застосування
+Mouse|Mouse|Mouse|鼠标|Миша
+Mando|Controller|Controle|手柄|Геймпад
+Teclado|Keyboard|Teclado|键盘|Клавіатура
+Teclado USB|USB keyboard|Teclado USB|USB 键盘|USB-клавіатура
+Personalizada|Custom|Personalizada|自定义|Власна
+Vuelve a tu punto de partida|Back to your original settings|Volte à configuração original|恢复原始设置|Повернення до початкових налаштувань
+Recupera el ajuste original de cada periférico.|Restore each device's original settings.|Restaure a configuração original de cada periférico.|恢复每台设备的原始设置。|Відновіть початкові налаштування кожного пристрою.
+Todo bajo control|Everything under control|Tudo sob controle|一切尽在掌握|Усе під контролем
+Lo esencial para usar Pulso con confianza.|The essentials for using Pulso confidently.|O essencial para usar o Pulso com confiança.|放心使用 Pulso 所需的基本知识。|Основне для впевненого користування Pulso.
+Buscando…|Searching…|Buscando…|正在查找…|Пошук…
+Leyendo tus dispositivos USB…|Reading your USB devices…|Lendo seus dispositivos USB…|正在读取 USB 设备…|Читання USB-пристроїв…
+HIDUSBF listo|HIDUSBF ready|HIDUSBF pronto|HIDUSBF 已就绪|HIDUSBF готовий
+Falta HIDUSBF|HIDUSBF missing|HIDUSBF ausente|未安装 HIDUSBF|HIDUSBF відсутній
+{0} conectados|{0} connected|{0} conectados|已连接 {0} 个|Підключено: {0}
+Conecta un mouse, teclado o mando USB para empezar.|Connect a USB mouse, keyboard or controller to get started.|Conecte um mouse, teclado ou controle USB para começar.|连接 USB 鼠标、键盘或手柄即可开始。|Підключіть USB-мишу, клавіатуру або геймпад, щоб почати.
+Los cambios se guardan solo cuando tú los aplicas.|Changes are saved only when you apply them.|As alterações só são salvas quando você as aplica.|只有应用更改后才会保存。|Зміни зберігаються лише після застосування.
+El dispositivo o la frecuencia pendiente ya no están disponibles. Elige otra opción.|The pending device or rate is no longer available. Choose another option.|O dispositivo ou a frequência pendente não está mais disponível. Escolha outra opção.|待更改的设备或频率已不可用，请选择其他选项。|Вибраний пристрій або частота більше недоступні. Виберіть інший варіант.
+No se pudo actualizar: {0}|Could not refresh: {0}|Não foi possível atualizar: {0}|无法刷新：{0}|Не вдалося оновити: {0}
+Tus periféricos aparecerán aquí al conectarlos.|Your devices will appear here when connected.|Seus periféricos aparecerão aqui ao serem conectados.|连接设备后，它们将显示在此处。|Після підключення ваші пристрої з’являться тут.
+{0}  ·  Conexión USB|{0}  ·  USB connection|{0}  ·  Conexão USB|{0}  ·  USB 连接|{0}  ·  USB-підключення
+Frecuencia guardada · sin medición|Saved rate · not measured|Frequência salva · não medida|已保存的频率 · 未测量|Збережена частота · без вимірювання
+Sin ajuste de Pulso|No Pulso override|Sem ajuste do Pulso|未由 Pulso 调整|Без зміни через Pulso
+Nombre completo: {0}|Full name: {0}|Nome completo: {0}|完整名称：{0}|Повна назва: {0}
+Identificador: {0}|Identifier: {0}|Identificador: {0}|标识符：{0}|Ідентифікатор: {0}
+Velocidad USB: {0} · Funciones: {1}|USB speed: {0} · Functions: {1}|Velocidade USB: {0} · Funções: {1}|USB 速度：{0} · 功能：{1}|Швидкість USB: {0} · Функції: {1}
+HIDUSBF: {0} · bInterval guardado: {1}|HIDUSBF: {0} · Saved bInterval: {1}|HIDUSBF: {0} · bInterval salvo: {1}|HIDUSBF：{0} · 已保存的 bInterval：{1}|HIDUSBF: {0} · Збережений bInterval: {1}
+filtro activado|filter enabled|filtro ativado|筛选器已启用|фільтр увімкнено
+sin filtro|no filter|sem filtro|无筛选器|без фільтра
+ninguno|none|nenhum|无|немає
+Este ajuste se aplica a todas las funciones de la unidad USB.|This setting applies to all functions of the USB unit.|Este ajuste se aplica a todas as funções da unidade USB.|此设置适用于该 USB 设备的所有功能。|Це налаштування стосується всіх функцій USB-пристрою.
+Estado: {0}|Status: {0}|Estado: {0}|状态：{0}|Стан: {0}
+No disponible|Unavailable|Indisponível|不可用|Недоступно
+Selecciona un dispositivo.|Select a device.|Selecione um dispositivo.|请选择设备。|Виберіть пристрій.
+Una interfaz tiene su propio filtro. Gestiona ese caso con HIDUSBF oficial.|An interface has its own filter. Manage it with the official HIDUSBF tool.|Uma interface tem seu próprio filtro. Gerencie esse caso com a ferramenta oficial HIDUSBF.|某个接口已有自己的筛选器，请使用官方 HIDUSBF 工具管理。|Інтерфейс має власний фільтр. Керуйте ним через офіційний HIDUSBF.
+Este dispositivo está disponible solo para consulta o recuperación.|This device is available only for viewing or recovery.|Este dispositivo está disponível apenas para consulta ou recuperação.|此设备仅可查看或恢复。|Для цього пристрою доступні лише перегляд і відновлення.
+No se pudo leer la velocidad USB. Actualiza la lista antes de configurar.|Could not read the USB speed. Refresh the list before configuring.|Não foi possível ler a velocidade USB. Atualize a lista antes de configurar.|无法读取 USB 速度，请先刷新列表再设置。|Не вдалося прочитати швидкість USB. Оновіть список перед налаштуванням.
+La configuración SuperSpeed todavía no está validada en esta versión.|SuperSpeed configuration has not been validated in this version.|A configuração SuperSpeed ainda não foi validada nesta versão.|此版本尚未验证 SuperSpeed 设置。|Налаштування SuperSpeed ще не перевірено в цій версії.
+Elige una frecuencia disponible.|Choose an available rate.|Escolha uma frequência disponível.|请选择可用频率。|Виберіть доступну частоту.
+Auto|Auto|Auto|自动|Авто
+El dispositivo gestiona el intervalo. No se fuerza una frecuencia.|The device manages the interval. No rate is forced.|O dispositivo gerencia o intervalo. Nenhuma frequência é forçada.|间隔由设备管理，不强制指定频率。|Пристрій керує інтервалом. Частота не нав’язується.
+En este periférico USB de baja velocidad, superar 125 Hz puede no funcionar con el controlador actual.|On this Low Speed USB device, rates above 125 Hz may not work with the current driver.|Neste periférico USB Low Speed, frequências acima de 125 Hz podem não funcionar com o driver atual.|此低速 USB 设备在当前驱动程序下可能无法超过 125 Hz。|Для цього низькошвидкісного USB-пристрою частоти понад 125 Гц можуть не працювати з поточним драйвером.
+Intervalo solicitado, no latencia medida. El hardware puede limitar la frecuencia efectiva.|Requested interval, not measured latency. Hardware may limit the effective rate.|Intervalo solicitado, não latência medida. O hardware pode limitar a frequência efetiva.|这是请求的间隔，并非实测延迟。硬件可能限制实际频率。|Запитаний інтервал, не виміряна затримка. Обладнання може обмежувати фактичну частоту.
+Necesita una revisión|Needs a review|Precisa de revisão|需要检查|Потрібна перевірка
+Tienes un cambio preparado|A change is ready|Você tem uma alteração preparada|已准备好更改|Зміну підготовлено
+{0}  →  {1}. La copia original se conserva.|{0}  →  {1}. The original backup is preserved.|{0}  →  {1}. O backup original é preservado.|{0}  →  {1}。原始备份将被保留。|{0}  →  {1}. Початкова резервна копія зберігається.
+Puedes explorar las frecuencias sin aplicar ningún cambio.|You can explore rates without applying any changes.|Você pode explorar as frequências sem aplicar alterações.|可以浏览频率选项，而不应用任何更改。|Можна переглядати частоти, не застосовуючи змін.
+Obtener controlador ↗|Get the driver ↗|Obter driver ↗|获取驱动程序 ↗|Отримати драйвер ↗
+Sin cambios|No changes|Sem alterações|无更改|Без змін
+Valor del dispositivo|Device default|Valor do dispositivo|设备默认值|Значення пристрою
+Valor no reconocido|Unrecognized value|Valor não reconhecido|无法识别的值|Нерозпізнане значення
+bInterval={0} (velocidad desconocida)|bInterval={0} (unknown speed)|bInterval={0} (velocidade desconhecida)|bInterval={0}（速度未知）|bInterval={0} (швидкість невідома)
+{0} Hz solicitados|{0} Hz requested|{0} Hz solicitados|请求 {0} Hz|Запитано {0} Гц
+Copia original: {0}|Original backup: {0}|Backup original: {0}|原始备份：{0}|Початкова копія: {0}
+Revisar restauración|Review restore|Revisar restauração|检查恢复|Перевірити відновлення
+Una copia no se pudo leer: {0}|A backup could not be read: {0}|Não foi possível ler um backup: {0}|无法读取备份：{0}|Не вдалося прочитати копію: {0}
+Tu primera copia aparecerá aquí cuando apliques un cambio. Si ya tienes una, conecta ese periférico.|Your first backup will appear here when you apply a change. If you already have one, connect that device.|Seu primeiro backup aparecerá aqui quando você aplicar uma alteração. Se já tiver um, conecte esse periférico.|首次应用更改后，备份将显示在此处。如果已有备份，请连接对应设备。|Перша копія з’явиться після застосування зміни. Якщо копія вже є, підключіть відповідний пристрій.
+No hay una copia original para este dispositivo.|There is no original backup for this device.|Não há backup original para este dispositivo.|此设备没有原始备份。|Для цього пристрою немає початкової копії.
+RECUPERACIÓN  /  COPIA ORIGINAL|RECOVERY  /  ORIGINAL BACKUP|RECUPERAÇÃO  /  BACKUP ORIGINAL|恢复  /  原始备份|ВІДНОВЛЕННЯ  /  ПОЧАТКОВА КОПІЯ
+Recupera tu configuración.|Restore your settings.|Restaure sua configuração.|恢复你的设置。|Відновіть свої налаштування.
+El cambio afecta a la unidad USB completa, incluidas sus funciones adicionales. Después de aplicarlo, desconecta y conecta el periférico para que Windows vuelva a cargar su configuración.|The change affects the entire USB unit, including its additional functions. After applying it, unplug and reconnect the device so Windows reloads its settings.|A alteração afeta toda a unidade USB, incluindo suas funções adicionais. Após aplicá-la, desconecte e reconecte o periférico para que o Windows recarregue a configuração.|更改会影响整个 USB 设备，包括其附加功能。应用后请拔下并重新连接设备，让 Windows 重新加载设置。|Зміна стосується всього USB-пристрою, зокрема додаткових функцій. Після застосування від’єднайте й підключіть пристрій знову, щоб Windows завантажила налаштування.
+Tu copia original se conserva. La frecuencia solicitada no garantiza la tasa efectiva del dispositivo.|Your original backup is preserved. The requested rate does not guarantee the device's effective rate.|Seu backup original é preservado. A frequência solicitada não garante a frequência efetiva do dispositivo.|原始备份将被保留。请求的频率不保证设备能达到对应的实际频率。|Початкова копія зберігається. Запитана частота не гарантує фактичну частоту пристрою.
+Windows solicitará permisos de administrador. Tu dispositivo y frecuencia elegidos se conservarán; después podrás aplicar el cambio.|Windows will request administrator permissions. Your device and rate selection will be preserved; you can then apply the change.|O Windows solicitará permissões de administrador. O dispositivo e a frequência escolhidos serão mantidos; depois você poderá aplicar a alteração.|Windows 将请求管理员权限。所选设备和频率将被保留，之后即可应用更改。|Windows запитає права адміністратора. Вибрані пристрій і частота збережуться; після цього можна застосувати зміну.
+Continuar como administrador|Continue as administrator|Continuar como administrador|以管理员身份继续|Продовжити як адміністратор
+No se concedieron permisos. Tu selección sigue aquí y no se ha aplicado ningún cambio.|Permissions were not granted. Your selection is still here and no changes were applied.|As permissões não foram concedidas. Sua seleção foi mantida e nenhuma alteração foi aplicada.|未授予权限。你的选择仍然保留，尚未应用任何更改。|Права не надано. Ваш вибір збережено, жодних змін не застосовано.
+Aplicando…|Applying…|Aplicando…|正在应用…|Застосування…
+Guardando la copia y verificando la configuración…|Saving the backup and checking the settings…|Salvando o backup e verificando a configuração…|正在保存备份并验证设置…|Збереження копії та перевірка налаштувань…
+CAMBIO GUARDADO|CHANGE SAVED|ALTERAÇÃO SALVA|更改已保存|ЗМІНУ ЗБЕРЕЖЕНО
+Ahora, vuelve a conectarlo.|Now reconnect your device.|Agora, reconecte o dispositivo.|现在请重新连接设备。|Тепер підключіть пристрій знову.
+Desconecta y conecta de nuevo {0}. Pulso actualizará la lista al detectar la conexión. También puedes pulsar Actualizar.|Unplug and reconnect {0}. Pulso will refresh the list when it detects the connection. You can also press Refresh.|Desconecte e reconecte {0}. O Pulso atualizará a lista ao detectar a conexão. Você também pode pressionar Atualizar.|请拔下并重新连接 {0}。Pulso 检测到连接后会刷新列表，你也可以点击“刷新”。|Від’єднайте та знову підключіть {0}. Pulso оновить список, коли виявить підключення. Також можна натиснути «Оновити».
+Se verificaron los valores guardados en Windows. La frecuencia efectiva aún no se ha medido.|The values saved in Windows were verified. The effective rate has not been measured.|Os valores salvos no Windows foram verificados. A frequência efetiva ainda não foi medida.|已验证 Windows 中保存的值。实际频率尚未测量。|Збережені у Windows значення перевірено. Фактичну частоту ще не виміряно.
+Configuración guardada para {0}. Reconecta el periférico.|Settings saved for {0}. Reconnect the device.|Configuração salva para {0}. Reconecte o periférico.|已为 {0} 保存设置。请重新连接设备。|Налаштування для {0} збережено. Підключіть пристрій знову.
+NO SE COMPLETÓ EL CAMBIO|CHANGE NOT COMPLETED|ALTERAÇÃO NÃO CONCLUÍDA|更改未完成|ЗМІНУ НЕ ЗАВЕРШЕНО
+Revisa este detalle.|Check this detail.|Verifique este detalhe.|请检查以下详情。|Перевірте ці відомості.
+El cambio no se completó. Consulta el detalle en pantalla.|The change was not completed. Check the details on screen.|A alteração não foi concluída. Veja os detalhes na tela.|更改未完成，请查看屏幕上的详情。|Зміну не завершено. Перегляньте відомості на екрані.
+Entendido|Got it|Entendido|知道了|Зрозуміло
+No se pudo abrir: {0}|Could not open: {0}|Não foi possível abrir: {0}|无法打开：{0}|Не вдалося відкрити: {0}
+No se pudo recuperar el cambio pendiente.|Could not recover the pending change.|Não foi possível recuperar a alteração pendente.|无法恢复待应用的更改。|Не вдалося відновити підготовлену зміну.
+No se pudo abrir Pulso. {0}|Could not open Pulso. {0}|Não foi possível abrir o Pulso. {0}|无法打开 Pulso。{0}|Не вдалося відкрити Pulso. {0}
+El idioma cambió, pero no se pudo guardar la preferencia: {0}|Language changed, but the preference could not be saved: {0}|O idioma foi alterado, mas não foi possível salvar a preferência: {0}|语言已更改，但无法保存偏好设置：{0}|Мову змінено, але не вдалося зберегти вибір: {0}
+Frecuencia no válida para esta velocidad USB.|Invalid rate for this USB speed.|Frequência inválida para esta velocidade USB.|此 USB 速度不支持该频率。|Неприпустима частота для цієї швидкості USB.
+No se pudo abrir la configuración del dispositivo.|Could not open the device settings.|Não foi possível abrir a configuração do dispositivo.|无法打开设备设置。|Не вдалося відкрити налаштування пристрою.
+bInterval tiene un formato que esta versión no modifica.|This version cannot modify the format of bInterval.|Esta versão não modifica o formato de bInterval.|此版本无法修改该格式的 bInterval。|Ця версія не змінює такий формат bInterval.
+bInterval está fuera del rango reconocido.|bInterval is outside the recognized range.|bInterval está fora do intervalo reconhecido.|bInterval 超出可识别范围。|bInterval виходить за межі розпізнаваного діапазону.
+Windows informa un problema de dispositivo ({0}).|Windows reports a device problem ({0}).|O Windows informa um problema no dispositivo ({0}).|Windows 报告设备问题（{0}）。|Windows повідомляє про проблему з пристроєм ({0}).
+Copia no válida para este dispositivo.|Invalid backup for this device.|Backup inválido para este dispositivo.|备份与此设备不匹配。|Недійсна копія для цього пристрою.
+La instalación del dispositivo cambió desde la copia anterior. No se aplicó nada.|The device installation changed since the previous backup. Nothing was applied.|A instalação do dispositivo mudou desde o backup anterior. Nada foi aplicado.|自上次备份以来，设备安装信息已更改。未应用任何设置。|Інсталяція пристрою змінилася після попередньої копії. Нічого не застосовано.
+Windows no confirmó los valores guardados.|Windows did not confirm the saved values.|O Windows não confirmou os valores salvos.|Windows 未确认保存的值。|Windows не підтвердила збережені значення.
+Falló el cambio y no se pudo completar la restauración. Conserva la copia y no reinicies el dispositivo. |The change failed and restoration could not be completed. Keep the backup and do not restart the device. |A alteração falhou e não foi possível concluir a restauração. Preserve o backup e não reinicie o dispositivo. |更改失败，且无法完成恢复。请保留备份，不要重启设备。|Зміна не вдалася, а відновлення не завершено. Збережіть копію та не перезапускайте пристрій. 
+No se aplicó el cambio; se restauraron los valores anteriores. |The change was not applied; the previous values were restored. |A alteração não foi aplicada; os valores anteriores foram restaurados. |未应用更改，已恢复之前的值。|Зміну не застосовано; попередні значення відновлено. 
+Otra ventana de Pulso USB está aplicando un cambio.|Another Pulso USB window is applying a change.|Outra janela do Pulso USB está aplicando uma alteração.|另一个 Pulso USB 窗口正在应用更改。|Інше вікно Pulso USB застосовує зміну.
+Abre el programa como administrador para cambiar la frecuencia.|Open the app as administrator to change the rate.|Abra o programa como administrador para alterar a frequência.|请以管理员身份打开程序以更改频率。|Відкрийте програму як адміністратор, щоб змінити частоту.
+El dispositivo ya no está conectado. Actualiza la lista.|The device is no longer connected. Refresh the list.|O dispositivo não está mais conectado. Atualize a lista.|设备已断开连接，请刷新列表。|Пристрій більше не підключений. Оновіть список.
+Solo se configuran dispositivos de entrada USB.|Only USB input devices can be configured.|Somente dispositivos de entrada USB podem ser configurados.|只能设置 USB 输入设备。|Налаштовувати можна лише USB-пристрої введення.
+El dispositivo cambió. Actualiza la lista.|The device changed. Refresh the list.|O dispositivo mudou. Atualize a lista.|设备已更改，请刷新列表。|Пристрій змінився. Оновіть список.
+La configuración cambió desde la última lectura. Actualiza la lista antes de modificarla.|The settings changed since the last read. Refresh the list before modifying them.|A configuração mudou desde a última leitura. Atualize a lista antes de modificá-la.|设置自上次读取后已发生变化，请先刷新列表再修改。|Налаштування змінилися після останнього читання. Оновіть список перед зміною.
+Una interfaz de esta unidad ya tiene HIDUSBF. Adminístrala con Setup oficial para evitar filtros superpuestos.|An interface of this unit already has HIDUSBF. Use the official Setup tool to avoid overlapping filters.|Uma interface desta unidade já tem HIDUSBF. Use o Setup oficial para evitar filtros sobrepostos.|此设备的某个接口已安装 HIDUSBF。请使用官方 Setup 工具，以免重复叠加筛选器。|Інтерфейс цього пристрою вже має HIDUSBF. Керуйте ним через офіційний Setup, щоб уникнути накладання фільтрів.
+No hay una copia compatible para este dispositivo.|There is no compatible backup for this device.|Não há backup compatível para este dispositivo.|此设备没有兼容的备份。|Для цього пристрою немає сумісної копії.
+Instala HIDUSBF desde su proyecto oficial antes de aplicar el filtro.|Install HIDUSBF from its official project before applying the filter.|Instale o HIDUSBF a partir do projeto oficial antes de aplicar o filtro.|应用筛选器前，请从官方项目安装 HIDUSBF。|Перш ніж застосувати фільтр, установіть HIDUSBF з офіційного проєкту.
+
+🎮 Probador de controles|🎮 Controller tester|🎮 Testador de controles|🎮 手柄测试|🎮 Тестер геймпада
+Probador de controles|Controller tester|Testador de controles|手柄测试|Тестер геймпада
+Conecta, mueve y comprueba tu mando.|Connect, move and check your controller.|Conecte, mova e teste seu controle.|连接手柄，操作并检查响应。|Підключіть геймпад, рухайте стіками й перевіряйте реакцію.
+ELIGE TU MANDO|CHOOSE YOUR CONTROLLER|ESCOLHA SEU CONTROLE|选择手柄|ВИБЕРІТЬ ГЕЙМПАД
+Elige tu mando|Choose your controller|Escolha seu controle|选择手柄|Виберіть геймпад
+Conecta un mando para empezar.|Connect a controller to get started.|Conecte um controle para começar.|连接手柄即可开始。|Підключіть геймпад, щоб почати.
+Vista del mando|Controller view|Visualização do controle|手柄视图|Зображення геймпада
+Cada movimiento cuenta.|Every move comes to life.|Cada movimento ganha vida.|每个动作，清晰可见。|Кожен рух на екрані.
+Pulsa los botones y mueve las palancas. Verás la respuesta al instante.|Press the buttons and move the sticks. Watch the response live.|Pressione os botões e mova os analógicos. Veja a resposta em tempo real.|按下按钮或移动摇杆，即可实时查看响应。|Натискайте кнопки та рухайте стіками. Реакцію видно одразу.
+Palanca izquierda|Left stick|Analógico esquerdo|左摇杆|Лівий стік
+Palanca derecha|Right stick|Analógico direito|右摇杆|Правий стік
+Gatillos|Triggers|Gatilhos|扳机|Тригери
+Botones|Buttons|Botões|按钮|Кнопки
+Reiniciar recorrido|Reset test|Reiniciar teste|重置测试|Скинути тест
+Morado: pulsado · Turquesa: probado|Purple: pressed · Cyan: tested|Roxo: pressionado · Turquesa: testado|紫色：按下 · 青色：已测试|Фіолетовий: натиснуто · Бірюзовий: перевірено
+Valores del mando|Controller values|Valores do controle|手柄原始数值|Значення геймпада
+Lectura en vivo al mantener Pulso activo. El probador no mide la latencia ni cambia la configuración.|Live input while Pulso is focused. This tester does not measure latency or change settings.|Leitura ao vivo enquanto o Pulso estiver ativo. O testador não mede latência nem altera configurações.|Pulso 窗口处于活动状态时显示实时输入。此测试不测量延迟，也不更改设置。|Дані надходять, коли вікно Pulso активне. Тестер не вимірює затримку й не змінює налаштувань.
+No se pudo leer el mando. Pulsa Actualizar para reintentar.|Could not read the controller. Press Refresh to retry.|Não foi possível ler o controle. Clique em Atualizar para tentar novamente.|无法读取手柄。请点击“刷新”重试。|Не вдалося прочитати дані геймпада. Натисніть «Оновити», щоб повторити.
+No se pudo iniciar la lectura del mando.|Could not start reading controller input.|Não foi possível iniciar a leitura do controle.|无法开始读取手柄输入。|Не вдалося почати читання даних геймпада.
+En pausa · vuelve a Pulso|Paused · return to Pulso|Pausado · volte ao Pulso|已暂停 · 请返回 Pulso|Пауза · поверніться до Pulso
+●  Recibiendo señales|●  Receiving input|●  Recebendo sinais|●  正在接收输入|●  Сигнал надходить
+Mueve una palanca para empezar.|Move a stick to get started.|Mova um analógico para começar.|移动摇杆即可开始。|Рухайте стіком, щоб почати.
+Los mandos compatibles aparecerán aquí.|Compatible controllers will appear here.|Os controles compatíveis aparecerão aqui.|兼容的手柄将显示在这里。|Тут з’являться сумісні геймпади.
+{0} botones · {1} ejes|{0} buttons · {1} axes|{0} botões · {1} eixos|{0} 个按钮 · {1} 个轴|Кнопок: {0} · Осей: {1}
+Ejes X / Y|X / Y axes|Eixos X / Y|X / Y 轴|Осі X / Y
+Ejes {0} / {1}|{0} / {1} axes|Eixos {0} / {1}|{0} / {1} 轴|Осі {0} / {1}
+Botones · {0} de {1} probados|Buttons · {0} of {1} tested|Botões · {0} de {1} testados|按钮 · 已测试 {0} / {1}|Кнопки · перевірено {0} із {1}
+En mandos genéricos, los botones aparecen numerados y los ejes con su nombre. Los extras dependen de lo que Windows exponga.|On generic controllers, buttons use numbers and axes use their names. Extra controls depend on what Windows exposes.|Em controles genéricos, os botões são numerados e os eixos usam seus nomes. Os extras dependem do que o Windows disponibiliza.|通用手柄的按钮以编号显示，轴以名称显示。额外控件取决于 Windows 提供的信息。|Для універсальних геймпадів кнопки мають номери, а осі — назви. Додаткові елементи залежать від даних Windows.
+Mando HID|HID controller|Controle HID|HID 手柄|HID-геймпад
+
+Preparar ajustes USB|Set up USB adjustments|Preparar ajustes USB|准备 USB 调整|Підготувати налаштування USB
+PREPARACIÓN INICIAL|FIRST-TIME SETUP|PREPARAÇÃO INICIAL|首次设置|ПОЧАТКОВЕ НАЛАШТУВАННЯ
+Prepara los ajustes USB.|Set up USB adjustments.|Prepare os ajustes USB.|准备 USB 调整。|Підготуйте налаштування USB.
+Componente incluido con Pulso|Component included with Pulso|Componente incluído no Pulso|Pulso 内置组件|Компонент у комплекті з Pulso
+Para ajustar las frecuencias, Pulso necesita instalar el controlador oficial HIDUSBF incluido en este paquete. Windows solicitará permisos de administrador.|To adjust polling rates, Pulso needs to install the official HIDUSBF driver included in this package. Windows will request administrator permission.|Para ajustar as frequências, o Pulso precisa instalar o driver oficial HIDUSBF incluído neste pacote. O Windows solicitará permissão de administrador.|要调整轮询频率，Pulso 需要安装此软件包内附的官方 HIDUSBF 驱动程序。Windows 将请求管理员权限。|Для зміни частоти опитування Pulso потрібно встановити офіційний драйвер HIDUSBF із цього пакета. Windows попросить дозвіл адміністратора.
+La instalación no cambia las frecuencias de tus dispositivos. Después podrás revisar y aplicar tu ajuste. Se conserva cualquier instalación existente.|Installation does not change device polling rates. Afterwards you can review and apply your settings. Any existing installation is preserved.|A instalação não altera as frequências dos dispositivos. Depois você poderá revisar e aplicar seu ajuste. Qualquer instalação existente será preservada.|安装不会更改设备的轮询频率。安装后可查看并应用设置。已有安装将予以保留。|Встановлення не змінює частоти пристроїв. Після нього ви зможете перевірити й застосувати налаштування. Наявна інсталяція зберігається.
+Este paquete requiere Windows 10 u 11 de 64 bits, con procesador Intel o AMD.|This package requires 64-bit Windows 10 or 11 on an Intel or AMD processor.|Este pacote requer Windows 10 ou 11 de 64 bits, com processador Intel ou AMD.|此软件包需要搭载 Intel 或 AMD 处理器的 64 位 Windows 10 或 11。|Цей пакет потребує 64-бітної Windows 10 або 11 на процесорі Intel чи AMD.
+Instalar componente|Install component|Instalar componente|安装组件|Встановити компонент
+Instalando…|Installing…|Instalando…|正在安装…|Встановлення…
+Espera a que Windows complete la instalación.|Wait for Windows to finish installation.|Aguarde o Windows concluir a instalação.|请等待 Windows 完成安装。|Зачекайте, доки Windows завершить встановлення.
+PREPARACIÓN COMPLETA|SETUP COMPLETE|PREPARAÇÃO CONCLUÍDA|设置完成|НАЛАШТУВАННЯ ЗАВЕРШЕНО
+Listo para configurar.|Ready to configure.|Pronto para configurar.|可以开始配置。|Можна налаштовувати.
+El componente está instalado. Ahora puedes revisar y aplicar la frecuencia que elegiste.|The component is installed. You can now review and apply the polling rate you chose.|O componente está instalado. Agora você pode revisar e aplicar a frequência escolhida.|组件已安装。现在可以查看并应用所选的轮询频率。|Компонент встановлено. Тепер можна перевірити й застосувати вибрану частоту.
+Tus frecuencias USB siguen como estaban.|Your USB polling rates are unchanged.|Suas frequências USB permanecem como estavam.|USB 轮询频率保持不变。|Частоти USB залишилися без змін.
+No se completó la instalación. Puedes seguir usando el probador de controles.|Installation did not finish. You can still use the controller tester.|A instalação não foi concluída. Você pode continuar usando o testador de controles.|安装未完成。您仍可使用手柄测试功能。|Встановлення не завершено. Тестером геймпадів можна користуватися й надалі.
+Windows no confirmó la instalación del componente.|Windows did not confirm component installation.|O Windows não confirmou a instalação do componente.|Windows 未确认组件安装成功。|Windows не підтвердила встановлення компонента.
+Windows no confirmó los archivos del componente.|Windows did not confirm the component files.|O Windows não confirmou os arquivos do componente.|Windows 未确认组件文件。|Windows не підтвердила файли компонента.
+Windows necesita permisos de administrador para instalar el componente.|Windows needs administrator permission to install the component.|O Windows precisa de permissão de administrador para instalar o componente.|Windows 需要管理员权限才能安装组件。|Для встановлення компонента Windows потрібен дозвіл адміністратора.
+Otra instalación de Pulso está en curso.|Another Pulso installation is in progress.|Outra instalação do Pulso está em andamento.|另一个 Pulso 安装正在进行。|Триває інше встановлення Pulso.
+Faltan archivos del componente incluido. Descarga de nuevo el paquete completo.|Bundled component files are missing. Download the complete package again.|Faltam arquivos do componente incluído. Baixe o pacote completo novamente.|缺少内置组件文件。请重新下载完整软件包。|Бракує файлів компонента. Завантажте повний пакет ще раз.
+Los archivos del componente no superaron la verificación.|Component file verification failed.|Os arquivos do componente não passaram na verificação.|组件文件未通过验证。|Файли компонента не пройшли перевірку.
+Ya existe un archivo de HIDUSBF sin una instalación reconocida. Revisa la instalación oficial antes de continuar.|A HIDUSBF file already exists without a recognized installation. Check the official installation before continuing.|Já existe um arquivo do HIDUSBF sem uma instalação reconhecida. Verifique a instalação oficial antes de continuar.|已存在 HIDUSBF 文件，但未识别到其安装。请先检查官方安装，再继续操作。|Файл HIDUSBF уже існує, але інсталяцію не розпізнано. Перевірте офіційну інсталяцію, перш ніж продовжити.
+No se pudo preparar el componente. {0}|Could not set up the component. {0}|Não foi possível preparar o componente. {0}|无法准备组件。{0}|Не вдалося підготувати компонент. {0}
+El componente se instaló, pero Windows no permitió iniciarlo. Reinicia el equipo y vuelve a intentarlo. Si continúa, consulta la guía oficial. |The component was installed, but Windows could not start it. Restart your PC and try again. If the issue persists, consult the official guide. |O componente foi instalado, mas o Windows não permitiu iniciá-lo. Reinicie o PC e tente novamente. Se o problema persistir, consulte o guia oficial. |组件已安装，但 Windows 未能启动它。请重启电脑后重试。如果问题持续，请参阅官方指南。 |Компонент встановлено, але Windows не дозволила його запустити. Перезавантажте комп’ютер і спробуйте ще раз. Якщо проблема не зникне, зверніться до офіційного посібника. 
+Necesitas .NET Framework 4.8 o posterior para abrir esta versión de Pulso.|You need .NET Framework 4.8 or later to open this version of Pulso.|Você precisa do .NET Framework 4.8 ou posterior para abrir esta versão do Pulso.|打开此版本的 Pulso 需要 .NET Framework 4.8 或更高版本。|Для запуску цієї версії Pulso потрібен .NET Framework 4.8 або новіший.
+Pulso, siempre a mano|Pulso, always within reach|Pulso, sempre à mão|随时打开 Pulso|Pulso завжди під рукою
+Anclar a la barra de tareas|Pin to taskbar|Fixar na barra de tarefas|固定到任务栏|Закріпити на панелі завдань
+Añade Pulso a tu barra de tareas. Windows te pedirá confirmación si admite esta opción.|Add Pulso to your taskbar. Windows will ask for confirmation if this option is supported.|Adicione o Pulso à barra de tarefas. O Windows pedirá confirmação se houver suporte a esta opção.|将 Pulso 添加到任务栏。如果支持此选项，Windows 会要求确认。|Додайте Pulso на панель завдань. Windows попросить підтвердження, якщо ця функція підтримується.
+Pulso está anclado a la barra de tareas.|Pulso is pinned to your taskbar.|O Pulso está fixado na barra de tarefas.|Pulso 已固定到任务栏。|Pulso закріплено на панелі завдань.
+No se añadió el acceso. Puedes intentarlo cuando quieras.|The shortcut was not added. You can try again whenever you like.|O atalho não foi adicionado. Você pode tentar novamente quando quiser.|未添加快捷方式。你可以随时重试。|Ярлик не додано. Ви можете спробувати ще раз у будь-який час.
+Haz clic derecho en el icono de Pulso de la barra de tareas y elige Anclar a la barra de tareas.|Right-click the Pulso icon on the taskbar and choose Pin to taskbar.|Clique com o botão direito no ícone do Pulso na barra de tarefas e escolha Fixar na barra de tarefas.|右键单击任务栏上的 Pulso 图标，然后选择“固定到任务栏”。|Клацніть правою кнопкою миші значок Pulso на панелі завдань і виберіть Закріпити на панелі завдань.

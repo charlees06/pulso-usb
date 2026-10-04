@@ -1,0 +1,43 @@
+PULSO · COMPONENTES DE TERCEROS
+
+HIDUSBF — SweetLow / LordOfMice
+Proyecto: https://github.com/LordOfMice/hidusbf
+Revisión: 994259a8de31b35d2d44dc800368d9418dd3eb04
+Archivo oficial: hidusbf.zip
+SHA-256 del ZIP: BD8D1FB0545D8DF88D9CEF0C67682DAEF7D304561BC64ACFEE5C0D8C12D0F797
+Incluimos sin modificar los bytes de:
+  DRIVER/HIDUSBF_AS.INF
+  DRIVER/AMD64_AS/NoPatch/hidusbf.sys
+Al instalarlos se dispone el controlador en amd64_as/hidusbf.sys, como indica
+la documentación oficial para seleccionar la edición NoPatch.
+SHA-256 INF: 48C3A0055070B9A66C239FFC3D068B39AAFE7A14554984268ACC6DA1492759E6
+SHA-256 SYS: 2F82CDEB36BDAA42EA1933A9B11F3B8E1BDB28E6D3E3DA7E65B4631B3375412D
+Firma del SYS comprobada: Microsoft Windows Hardware Compatibility Publisher.
+
+El autor declara los binarios de dominio público y permite redistribuirlos
+sin modificar. Su declaración y aclaración sobre la autoría están aquí:
+https://github.com/LordOfMice/hidusbf/issues/407#issuecomment-5043047919
+Pulso no es una edición oficial de HIDUSBF ni implica respaldo de su autor.
+Documentación de uso y límites: https://github.com/LordOfMice/hidusbf/blob/master/README.md
+
+MICROSOFT .NET FRAMEWORK 4.8
+Copyright Microsoft Corporation. Se distribuye el instalador oficial completo
+sin modificaciones, bajo las condiciones de licencia de Microsoft que presenta
+su propio instalador. Pulso no cambia esas condiciones.
+Archivo: NDP48-x86-x64-AllOS-ENU.exe
+Origen: https://dotnet.microsoft.com/download/dotnet-framework/net48
+SHA-256: 0A3A390C47E639D0F7FC65B21195FEE6B7F65B066F80F70C60FAB191D14B7E40
+Firma comprobada: Microsoft Corporation.
+Guía de redistribución:
+https://learn.microsoft.com/dotnet/framework/deployment/deployment-guide-for-developers
+
+Los nombres de fabricantes y productos identifican sus respectivos componentes.
+
+INNO SETUP
+El instalador se genera con Inno Setup 6.7.3, de Jordan Russell y Martijn Laan.
+Sitio oficial y condiciones: https://jrsoftware.org/
+Se conservan sus avisos de copyright y la información del motor del instalador.
+La traducción china complementaria conserva sus créditos originales.
+Fuente: jrsoftware/issrc, Files/Languages/ChineseSimplified.isl
+Revisión: a942f923d84b7a227b49af1721a1dc4492831ec0
+El compilador de Inno Setup no forma parte del repositorio ni del paquete.

@@ -1,0 +1,70 @@
+PULSO 2.4 · PAQUETE COMPLETO PARA WINDOWS
+
+INSTALADOR Y ACCESOS DIRECTOS
+Puedes instalar Pulso con Pulso-Setup-2.4.0-x64.exe o usar este paquete portable.
+El instalador crea accesos en el escritorio y en el menú Inicio.
+Para la barra de tareas: abre Pulso > Guía rápida > Anclar a la barra de tareas.
+Windows pedirá confirmación si lo admite. Si no, haz clic derecho en el icono
+abierto de Pulso en la barra de tareas y elige Anclar a la barra de tareas.
+El desinstalador conserva las copias de dispositivos generadas y no retira
+HIDUSBF ni .NET, que pueden ser usados por otras aplicaciones.
+
+VERSIÓN PORTABLE
+
+1. Extrae TODO el ZIP en una carpeta de tu usuario.
+2. Abre Pulso.exe, el archivo de la carpeta principal.
+3. Si falta .NET Framework 4.8, Pulso ofrece el instalador oficial incluido.
+   Completa sus pasos. Si Windows pide reiniciar, reinicia antes de continuar.
+4. Elige tu dispositivo y frecuencia. Si falta HIDUSBF, pulsa «Preparar ajustes
+   USB» y luego «Instalar componente». Windows pedirá permisos de administrador.
+5. La instalación del componente no cambia frecuencias. Después revisa y aplica
+   tu ajuste en Pulso y vuelve a conectar el periférico cuando se indique.
+
+El probador de controles funciona sin instalar HIDUSBF. El selector de idioma
+incluye español, inglés, portugués brasileño, chino simplificado y ucraniano.
+
+English: Extract the complete ZIP and open Pulso.exe in the main folder.
+Português: Extraia todo o ZIP e abra Pulso.exe na pasta principal.
+简体中文：解压整个 ZIP，然后打开主文件夹中的 Pulso.exe。
+Українська: Розпакуйте весь ZIP та відкрийте Pulso.exe в головній папці.
+
+COMPATIBILIDAD
+Windows 10 o Windows 11, de 64 bits, con procesador Intel o AMD.
+No se admite Windows de 32 bits, Windows ARM, macOS ni Linux.
+Se necesita permiso de administrador para instalar requisitos y aplicar cambios.
+Los equipos en modo S o administrados por una empresa pueden impedir instalar
+aplicaciones o controladores. Pulso respeta esas restricciones.
+
+Se incluyen Pulso, HIDUSBF NoPatch x64 firmado por Microsoft y el instalador
+offline oficial de .NET Framework 4.8. No necesitas buscar esos componentes.
+La instalación offline de .NET utiliza los textos del instalador en inglés;
+esto no limita los cinco idiomas de la interfaz de Pulso.
+La aplicación Pulso y su lanzador todavía no tienen firma digital propia.
+
+LÍMITES DEL HARDWARE
+La edición de HIDUSBF incluida es NoPatch. No modifica componentes de Windows.
+Puede ajustar frecuencias compatibles en dispositivos USB Full Speed y High
+Speed; los dispositivos Low Speed no admiten aumentos con esta edición.
+La frecuencia solicitada no garantiza que el periférico alcance ese valor.
+Un controlador que Windows bloquee no se fuerza a cargar ni se cambian medidas
+de seguridad. Si ya existe una instalación de HIDUSBF, Pulso la conserva.
+La disponibilidad de botones, gatillos y funciones especiales depende de lo que
+el mando exponga a Windows. El probador no mide la latencia.
+
+ACTUALIZAR O MOVER PULSO
+Es una aplicación portable. Conserva juntas las carpetas del paquete.
+Las copias originales de dispositivos están en Aplicacion\copias. No borres
+esta carpeta al actualizar. Si vienes de una versión anterior, conserva su
+carpeta «copias» y colócala junto al nuevo ejecutable de la aplicación dentro
+de Aplicacion, sin sobrescribir copias que ya existan para el mismo dispositivo.
+El idioma se guarda en la carpeta local del usuario y se conserva entre versiones.
+No compartas tu carpeta «copias» al distribuir Pulso a otras personas.
+
+VALIDACIÓN DE ESTA EDICIÓN
+Se verificaron los archivos y firmas oficiales, la preparación del paquete,
+la interfaz en cinco idiomas, las comprobaciones de compatibilidad y la lectura
+real de un DualSense Edge en Windows 11. Las pruebas no instalaron controladores
+ni alteraron la configuración USB del equipo usado para desarrollar la aplicación.
+La instalación desde cero en otro equipo todavía requiere una prueba real.
+
+Créditos y procedencia: TERCEROS.txt.

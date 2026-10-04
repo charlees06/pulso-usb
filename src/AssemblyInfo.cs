@@ -1,0 +1,6 @@
+using System.Reflection;
+[assembly: AssemblyTitle("Pulso")]
+[assembly: AssemblyDescription("USB Control y probador de controles")]
+[assembly: AssemblyProduct("Pulso")]
+[assembly: AssemblyVersion("2.4.0.0")]
+[assembly: AssemblyFileVersion("2.4.0.0")]
