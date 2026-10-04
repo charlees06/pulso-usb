@@ -1,0 +1,16 @@
+name: Compilar y probar
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  windows:
+    runs-on: windows-2022
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+      - name: Compilar y ejecutar pruebas sin modificar dispositivos
+        shell: pwsh
+        run: ./Probar.ps1
