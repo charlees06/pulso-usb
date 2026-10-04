@@ -4,11 +4,11 @@ Aplicación para Windows con ajustes de frecuencia USB, probador de controles y 
 
 ## Instalar
 
-Descarga `Pulso-Setup-2.4.0-x64.exe` en **Releases** y sigue el asistente. Instala Pulso para tu usuario y crea accesos en el escritorio y el menú Inicio. Incluye el instalador oficial de .NET Framework 4.8 y HIDUSBF NoPatch x64.
+Descarga [Pulso-Setup-2.4.0-x64.exe]([https://jrsoftware.org/isdl.php](https://github.com/charlees06/pulso-usb/releases/tag/v2.4.0) en **Releases** y sigue el asistente. Instala Pulso para tu usuario y crea accesos en el escritorio y el menú Inicio. Incluye el instalador oficial de .NET Framework 4.8 y HIDUSBF NoPatch x64.
 
 Para la barra de tareas, abre **Pulso → Guía rápida → Anclar a la barra de tareas**. En versiones compatibles se muestra la confirmación de Windows. En las demás, la app indica cómo hacerlo con el menú del icono. El instalador no fuerza el anclaje.
 
-También puedes usar `Pulso-Completo-Windows-x64.zip`: extrae todo su contenido y abre el `Pulso.exe` de la carpeta principal.
+También puedes usar [Pulso-Completo-Windows-x64.zip](https://github.com/charlees06/pulso-usb/releases/tag/v2.4.0) : extrae todo su contenido y abre el `Pulso.exe` de la carpeta principal.
 
 ## Funciones
 
